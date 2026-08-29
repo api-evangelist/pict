@@ -29,6 +29,9 @@ description: PICT was a San Francisco startup (founded 2012 by Brent Locks, Kele
   Capital, Lowercase Capital, and Forerunner Ventures, and was acquired by PopSugar in January 2014.
   The pict.com domain no longer resolves and the company exposes no public API surface.
 url: https://raw.githubusercontent.com/api-evangelist/pict/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "The pict.com domain no longer resolves and the company exposes no public API surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
